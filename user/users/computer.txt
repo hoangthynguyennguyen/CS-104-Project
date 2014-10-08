@@ -1,0 +1,7 @@
+5
+data/p1.txt 1
+data/p2.txt 0
+data/p3.txt 0
+data/p5.txt 1
+data/p6.txt 0
+0

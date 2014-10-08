@@ -1,0 +1,9 @@
+3
+google.com	5
+spdalpha.org	7
+amazon.com	2
+4
+amazon
+USC
+SPD
+Above and Beyond

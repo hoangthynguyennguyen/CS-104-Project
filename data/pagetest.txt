@@ -1,0 +1,5 @@
+The pages you need to read will (for now) be just plain text. (We will add some Markdown features later, so keep that in mind.) The text will consist of letters, numbers, and special characters. The interpretation is that any special character (other than letters or numbers) can be used to separate words, but numbers and letters together form words. For instance, the string "Computer-Science# 104 is really,really5times,really#great?I don't_know!" should be parsed into the words "Computer", "Science", "104", "is", "really", "really5times", "really", "great", "I", "don", "t", "know". Our files will not contain anything malfored (though actually, our definition allows any text).
+
+In your main project directory, create the actual search engine application. It should be passed one file name at the command line, which is the name of the main data file. We recommend that you create a subdirectory data to store this data file and the others.
+
+The main data file will contain, one per line, the file names of the web pages themselves. Each web page is stored in its own file. Your program should then read in all the web pages whose file name was listed in the main one.

@@ -1,0 +1,28 @@
+15
+amazon.com 2
+data/p0.txt 2
+data/p1.txt 4
+data/p2.txt 0
+data/p3.txt 1
+data/p4.txt 0
+data/p5.txt 7
+data/p6.txt 9
+data/p7.txt 5
+data/p8.txt 9
+data/p9.txt 9
+facebook.com 7
+google.com 7
+idk 0
+spdalpha.org 7
+11
+AMAZON
+Above and Beyond
+Annie
+Ashley
+Eggs
+Fancy
+Mathematica
+SPD
+USC
+amazon
+apple

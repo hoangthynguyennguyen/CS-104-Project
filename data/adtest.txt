@@ -1,0 +1,14 @@
+13
+education   0.25    USC
+Education   0.2     Westwood Community College 
+books       0.3     amazon
+books       0.05    USC
+BOOKS       0.3     AMAZON
+ignition    10.5    Marvin T. Greedy Class Action Law Firm
+cow    		0.7     AMAZON
+cow    		0.7     Eggs
+cow			0.7		Fancy
+cow			0.7		Big BUtt
+cow			0.6		Mathematica
+cow			0.5		Annie		
+cow			0.5		Ashley

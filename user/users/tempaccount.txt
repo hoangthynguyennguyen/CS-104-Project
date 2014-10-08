@@ -1,0 +1,7 @@
+3
+data/p6.txt 1
+data/p8.txt 3
+data/p9.txt 4
+2
+AMAZON
+Eggs

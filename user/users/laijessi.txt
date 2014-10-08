@@ -1,0 +1,13 @@
+6
+data/p0.txt 1
+data/p1.txt 2
+data/p5.txt 3
+data/p6.txt 2
+data/p8.txt 2
+data/p9.txt 4
+5
+AMAZON
+Annie
+Ashley
+Fancy
+Mathematica

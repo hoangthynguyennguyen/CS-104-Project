@@ -1,0 +1,28 @@
+UNAME_S=$(shell uname -s)
+ifeq ($(UNAME_S),Linux)
+	CC=g++-4.8
+else
+	ifeq ($(UNAME_S),Darwin)
+		CC=g++-4.8
+	else
+		CC=g++
+	endif
+endif
+
+CPPFLAGS =-std=c++11 -Wall -g 
+_OBJS=$(patsubst %,%,$(wildcard *.cpp))
+OBJS=$(patsubst %.cpp,%.o,$(_OBJS))
+
+
+all: user
+
+user.o: usertest.cpp user.cpp
+	$(CC) -c $< -o $@ $(CPPFLAGS)
+
+user: user.o
+	$(CC) $^ -o $@ $(CPPFLAGS)
+
+# The clean rule
+.PHONY: clean
+clean:
+	rm -rf *o *~ user
